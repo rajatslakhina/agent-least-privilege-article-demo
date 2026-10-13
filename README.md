@@ -2,7 +2,7 @@
 
 **A deny rule and a sandbox block different holes. This measures the overlap — and only one config reaches zero.**
 
-Article: (added after publish)
+Article: [Apple Says Your Coding Agent Has Too Much Access. A Deny Rule Won't Fix It.](https://medium.com/@er.rajatlakhina/apple-says-your-coding-agent-has-too-much-access-a-deny-rule-wont-fix-it-feb301f15a7f) (Medium)
 
 On 2 October 2026 Apple [said it would tighten Full Disk Access on macOS](https://www.macrumors.com/2026/10/02/apple-announces-macos-full-disk-access-changes/), naming AI agents directly: "As AI agents become increasingly capable and autonomous, the risks associated with this level of access will grow substantially." Your coding agent is one of those agents, and it runs with whatever your terminal holds.
 
